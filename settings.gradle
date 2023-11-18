@@ -1,0 +1,2 @@
+rootProject.name = "RoastYourself"
+include ':app'
